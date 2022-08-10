@@ -3,3 +3,6 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
+- sei que esta errado 
+- vai ficar assim 
+- mas estou aprendendo 
